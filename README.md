@@ -38,7 +38,7 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cat4blep/Weight-of-Steel">Weight of Steel</a></h3>
       <p>A configurable armor-weight system that changes real movement speed without relying on the vanilla Slowness effect, including support for modded armor overrides.</p>
-      <p><sub>JAVA · FABRIC · CONFIGURABLE GAMEPLAY</sub></p>
+      <p><br /><sub>JAVA · FABRIC · CONFIGURABLE GAMEPLAY</sub></p>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
 ## Toolbox
 
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Java, Fabric, NeoForge, Paper, Python, JavaScript, Astro, and C++" />
+  <img src="./assets/stack.svg" width="100%" alt="Programming languages: Java, Python, JavaScript. Minecraft ecosystem: Fabric, NeoForge, Paper." />
 </p>
 
 ## What I'm exploring
