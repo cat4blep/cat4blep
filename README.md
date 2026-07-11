@@ -35,6 +35,7 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
       <h3><a href="https://github.com/cat4blep/Weight-of-Steel">Weight of Steel</a></h3>
       <p>A configurable armor-weight system that changes real movement speed without relying on the vanilla Slowness effect, including support for modded armor overrides.</p>
       <p><br /><sub>JAVA · FABRIC · CONFIGURABLE GAMEPLAY</sub></p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -42,11 +43,13 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
       <h3><a href="https://github.com/cat4blep/CreateTrainPhysicsReloaded">Create Train Physics Reloaded</a></h3>
       <p>A recent fork exploring deeper physics for Create trains: gravity, rolling resistance, fuel use, mass, tractive effort, curve-safe speeds, and multi-engine power.</p>
       <p><sub>JAVA · CREATE · TRAIN PHYSICS · FORK</sub></p>
+      <p></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cat4blep/Tramways">Create: Tramways</a></h3>
       <p>A recent fork featuring tram and railway signals, signage for automatic trains, TTS announcements, request stops, and station-name signs.</p>
       <p><sub>JAVA · CREATE · RAILWAYS · FORK</sub></p>
+      <p></p>
     </td>
   </tr>
 </table>
