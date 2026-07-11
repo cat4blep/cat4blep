@@ -21,12 +21,6 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
 - 🌐 Occasionally wandering into Python, JavaScript, Astro, Electron, and C++
 - 💬 Happy to discuss an idea, a bug, or an especially strange mod concept
 
-## Downloads
-
-<p align="center">
-  
-</p>
-
 ## Selected work
 
 <table>
