@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="cat4blep — Minecraft modder and developer" />
+  <img src="./assets/header.svg" width="100%" alt="cat4blep Header — Minecraft modder and developer" />
 </p>
 
 <p align="center">
