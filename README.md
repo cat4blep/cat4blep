@@ -29,6 +29,7 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
       <h3><a href="https://github.com/cat4blep/SeeU">SeeU</a></h3>
       <p>Renders distant players beyond vanilla entity tracking while preserving pose, equipment, name tags, and ridden entities. Built for Fabric/NeoForge clients and Paper/Fabric/NeoForge servers.</p>
       <p><sub>JAVA · FABRIC · NEOFORGE · PAPER · VOXY · DISTANT HORIZONS</sub></p>
+      <p></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cat4blep/Weight-of-Steel">Weight of Steel</a></h3>
