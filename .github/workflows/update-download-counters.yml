@@ -1,0 +1,42 @@
+name: Update download counters
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-download-counters
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh counters
+        run: python scripts/update_download_counters.py
+
+      - name: Publish changed counters
+        shell: bash
+        run: |
+          if git diff --quiet -- assets/modrinth-downloads.svg assets/curseforge-downloads.svg; then
+            echo "Download totals have not changed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/modrinth-downloads.svg assets/curseforge-downloads.svg
+          git commit -m "Update download counters"
+          git push origin HEAD:main

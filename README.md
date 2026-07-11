@@ -17,6 +17,15 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
 - 🌐 Occasionally wandering into Python, JavaScript, Astro, Electron, and C++
 - 💬 Happy to discuss an idea, a bug, or an especially strange mod concept
 
+## Downloads
+
+<p align="center">
+  <a href="https://modrinth.com/user/Cat4blep"><img src="./assets/modrinth-downloads.svg" height="44" alt="Total Modrinth downloads" /></a>
+  <a href="https://www.curseforge.com/members/cat4blep/projects"><img src="./assets/curseforge-downloads.svg" height="44" alt="Total CurseForge downloads" /></a>
+</p>
+
+<p align="center"><sub>Automatically refreshed every day from the platform totals.</sub></p>
+
 ## Selected work
 
 <table>
