@@ -40,21 +40,10 @@
       <circle cx="18" cy="15" r="4" fill="#67e8f9"/>
       <text x="32" y="20" fill="#a5f3fc" font-size="12" font-weight="700" letter-spacing="1.8">DEV PROFILE / ONLINE</text>
 
-      <text x="0" y="116" fill="#f8fafc" font-size="72" font-weight="800" letter-spacing="-4">cat4blep</text>
-      <rect x="2" y="132" width="478" height="5" rx="2.5" fill="url(#accent)"/>
+      <text x="0" y="116" fill="#f8fafc" font-size="72" font-weight="800" letter-spacing="-4" textLength="286" lengthAdjust="spacingAndGlyphs">cat4blep</text>
+      <rect x="0" y="132" width="286" height="5" rx="2.5" fill="url(#accent)"/>
       <text x="0" y="178" fill="#cbd5e1" font-size="21">Minecraft modding · Java · playful systems</text>
       <text x="0" y="216" fill="#7dd3fc" font-size="15">making distant worlds feel a little more alive</text>
-
-      <g transform="translate(0 246)" font-size="13" font-weight="700">
-        <rect width="76" height="34" rx="10" fill="#151f35" stroke="#fb923c" stroke-opacity="0.45"/>
-        <text x="20" y="22" fill="#fed7aa">JAVA</text>
-        <rect x="88" width="92" height="34" rx="10" fill="#151f35" stroke="#67e8f9" stroke-opacity="0.42"/>
-        <text x="108" y="22" fill="#a5f3fc">FABRIC</text>
-        <rect x="192" width="112" height="34" rx="10" fill="#151f35" stroke="#a78bfa" stroke-opacity="0.45"/>
-        <text x="210" y="22" fill="#ddd6fe">NEOFORGE</text>
-        <rect x="316" width="96" height="34" rx="10" fill="#151f35" stroke="#f0abfc" stroke-opacity="0.42"/>
-        <text x="337" y="22" fill="#f5d0fe">PYTHON</text>
-      </g>
     </g>
 
     <g transform="translate(770 45)" filter="url(#shadow)">
