@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<a href="https://modrinth.com/user/Cat4blep"><img src="./assets/modrinth-downloads.svg" height="44" alt="Total Modrinth downloads" /></a>
+  <a href="https://www.curseforge.com/members/cat4blep/projects"><img src="./assets/curseforge-downloads.svg" height="44" alt="Total CurseForge downloads" /></a>
+</p>
+<p align="center">
   <a href="https://t.me/keryesh4ka"><img src="https://img.shields.io/badge/Telegram-@keryesh4ka-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.gg/fQqJsPmQrP"><img src="https://img.shields.io/badge/Discord-let's%20talk-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/badge/Moscow-UTC%2B3-111827?style=flat-square&amp;logo=googlemaps&amp;logoColor=67E8F9" alt="Moscow, UTC+3" />
@@ -20,8 +24,7 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
 ## Downloads
 
 <p align="center">
-  <a href="https://modrinth.com/user/Cat4blep"><img src="./assets/modrinth-downloads.svg" height="44" alt="Total Modrinth downloads" /></a>
-  <a href="https://www.curseforge.com/members/cat4blep/projects"><img src="./assets/curseforge-downloads.svg" height="44" alt="Total CurseForge downloads" /></a>
+  
 </p>
 
 ## Selected work
