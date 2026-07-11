@@ -12,7 +12,7 @@
 
 I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game systems, and small tools with a clear purpose. Most days you'll find me working in Java, making distant worlds feel more alive, or tuning mechanics until they feel natural in play.
 
-- 🔭 Building mods for **Fabric**, **NeoForge**, and **Paper**
+- 🔭 Building Minecraft mods and server plugins for **Fabric**, **NeoForge**, and **Paper**
 - 🧩 Interested in compatibility, configurable systems, and the Create ecosystem
 - 🌐 Occasionally wandering into Python, JavaScript, Astro, Electron, and C++
 - 💬 Happy to discuss an idea, a bug, or an especially strange mod concept
@@ -34,14 +34,14 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cat4blep/web-cpu-stress">Web CPU Stress</a></h3>
-      <p>A compact CPU stress-testing tool with a web interface.</p>
-      <p><sub>PYTHON · HTML</sub></p>
+      <h3><a href="https://github.com/cat4blep/CreateTrainPhysicsReloaded">Create Train Physics Reloaded</a></h3>
+      <p>A recent fork exploring deeper physics for Create trains: gravity, rolling resistance, fuel use, mass, tractive effort, curve-safe speeds, and multi-engine power.</p>
+      <p><sub>JAVA · CREATE · TRAIN PHYSICS · FORK</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cat4blep/pfcweb">pfcweb</a></h3>
-      <p>A web project built with Astro, JavaScript, and CSS.</p>
-      <p><sub>ASTRO · JAVASCRIPT · CSS</sub></p>
+      <h3><a href="https://github.com/cat4blep/Tramways">Create: Tramways</a></h3>
+      <p>A recent fork featuring tram and railway signals, signage for automatic trains, TTS announcements, request stops, and station-name signs.</p>
+      <p><sub>JAVA · CREATE · RAILWAYS · FORK</sub></p>
     </td>
   </tr>
 </table>

@@ -28,8 +28,8 @@
     </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="34" fill="url(#grid)"/>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
   <circle cx="92" cy="60" r="220" fill="url(#glowCyan)"/>
   <circle cx="1124" cy="315" r="310" fill="url(#glowViolet)"/>
   <path d="M0 322 C260 250 420 390 680 305 S1010 240 1200 287 V360 H0Z" fill="#ffffff" opacity="0.018"/>
@@ -93,5 +93,5 @@
     </g>
   </g>
 
-  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="33.25" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1.5"/>
 </svg>
