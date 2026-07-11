@@ -18,7 +18,7 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
 
 - 🔭 Building Minecraft mods and server plugins for **Fabric**, **NeoForge**, and **Paper**
 - 🧩 Interested in compatibility, configurable systems, and the Create ecosystem
-- 🌐 Occasionally wandering into Python, JavaScript, Astro, Electron, and C++
+- 🌐 Occasionally wandering into Python, JavaScript
 - 💬 Happy to discuss an idea, a bug, or an especially strange mod concept
 
 ## Selected work
