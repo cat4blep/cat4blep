@@ -24,8 +24,6 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
   <a href="https://www.curseforge.com/members/cat4blep/projects"><img src="./assets/curseforge-downloads.svg" height="44" alt="Total CurseForge downloads" /></a>
 </p>
 
-<p align="center"><sub>Automatically refreshed every day from the platform totals.</sub></p>
-
 ## Selected work
 
 <table>
@@ -59,14 +57,4 @@ I'm **cat4blep**, a developer from Moscow who likes Minecraft modding, game syst
 
 <p align="center">
   <img src="./assets/stack.svg" width="100%" alt="Programming languages: Java, Python, JavaScript. Minecraft ecosystem: Fabric, NeoForge, Paper." />
-</p>
-
-## What I'm exploring
-
-Right now I'm especially interested in long-distance rendering, movement and vehicle physics, Minecraft loader interoperability, and the little quality-of-life details that make a mod feel like it belongs in the game.
-
-<p align="center">
-  <a href="https://github.com/cat4blep?tab=repositories"><b>Explore all repositories →</b></a>
-  <br /><br />
-  <sub>If something here helped you, a star is always appreciated. Thanks for stopping by!</sub>
 </p>
