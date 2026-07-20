@@ -22,6 +22,10 @@ CURSEFORGE_PROJECT_IDS = {
     1545329: "EMI Recipe Pin",
     1522605: "ChTR",
     1514207: "B&W Shader",
+    1606629: "Create Rain Fix",
+    1607351: "Create Train Physics Reloaded",
+    1608079: "Create Fly: Steam 'n' Rails Continued",
+    1608879: "Retrogen",
 }
 
 
