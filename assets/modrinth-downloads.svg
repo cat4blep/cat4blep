@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="44" viewBox="0 0 300 44" role="img" aria-labelledby="title desc">
-  <title id="title">Modrinth total downloads: 70,065</title>
+  <title id="title">Modrinth total downloads: 70,706</title>
   <desc id="desc">Automatically updated daily.</desc>
   <rect x="0.5" y="0.5" width="299" height="43" fill="#0b1020" stroke="#1bd96a" stroke-opacity="0.55"/>
   <rect x="1" y="1" width="124" height="42" fill="#1bd96a" fill-opacity="0.12"/>
   <path d="M20 12v13m0 0-5-5m5 5 5-5M14 31h12" fill="none" stroke="#1bd96a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="35" y="27" fill="#bbf7d0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700">MODRINTH</text>
-  <text x="284" y="27" text-anchor="end" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700">70.1K downloads</text>
+  <text x="284" y="27" text-anchor="end" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700">70.7K downloads</text>
 </svg>
