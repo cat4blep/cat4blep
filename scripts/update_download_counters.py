@@ -26,6 +26,8 @@ CURSEFORGE_PROJECT_IDS = {
     1607351: "Create Train Physics Reloaded",
     1608079: "Create Fly: Steam 'n' Rails Continued",
     1608879: "Retrogen",
+    1671538: "seeu-extra",
+    1733043: "startup-console",
 }
 
 
